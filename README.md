@@ -14,7 +14,7 @@ The analysis aims to identify underperforming service areas
 - Microsoft Excel- charts creation
 - SQL- used to query data for easy insights
 - Pivot table- for summarizing, grouping, filtering,etc.
-- File Format- .pdf for report
+- File Format- .pdf for report view and .sql for query texts
 
 # Data source
 Dataset used for this analysis includes:
